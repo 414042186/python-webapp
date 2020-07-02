@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00198312-61de-4ae4-91e5-670de6f20ec5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3aca0935-4e49-451e-8905-dea1990c830c" />
+  </component>
+  <component name="ProjectId" id="1e5MUhHxR7S95xqR7rS1lowsij5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\rookie\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00198312-61de-4ae4-91e5-670de6f20ec5" name="Default Changelist" comment="" />
+      <created>1593607017445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593607017445</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="187" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593612757659">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state x="187" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.914@0.0.1463.914" timestamp="1593612757659" />
+    <state x="492" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593607198071">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state x="492" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.914@0.0.1463.914" timestamp="1593607198071" />
+    <state x="512" y="211" key="FileChooserDialogImpl" timestamp="1593610003858">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state x="512" y="211" key="FileChooserDialogImpl/0.0.1463.914@0.0.1463.914" timestamp="1593610003858" />
+    <state x="241" y="99" key="SettingsEditor" timestamp="1593612752150">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state x="241" y="99" key="SettingsEditor/0.0.1463.914@0.0.1463.914" timestamp="1593612752150" />
+    <state x="428" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1593610086398">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state x="428" y="281" key="com.intellij.ide.util.TipDialog/0.0.1463.914@0.0.1463.914" timestamp="1593610086398" />
+  </component>
+</project>
